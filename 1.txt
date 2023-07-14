@@ -1,0 +1,27 @@
+Types of documents technical writers create
+
+Some typical documents that technical writers create include:
+
+User manuals: These are documents that provide instructions on how to use a product or service, often including a list of features and step-by-step instructions. For example, a User Guide for a piece of software could include instructions on how to install the software, how to use the features of the software, and how to troubleshoot common problems.
+
+
+Release notes: These documents provide information about new features, bug fixes, and other updates to a software product or system. They are usually intended for users who are already familiar with the product or system. For example, release notes for a software development framework such as React might include information about new features that have been added, bugs that have been fixed, and known issues that still need to be addressed.
+
+
+Online help: These are documents that provide users with context-sensitive information as they use a software product or system. They are typically accessed through the software product or system. For instance, when using a software development environment such as Visual Studio, the online help document helps you learn how to use specific features such as debugging tools or how to set up a development environment.
+
+
+Technical specifications: These documents detail the technical features and capabilities of a software product or system. For example, a Technical Specification for a piece of software details the software's architecture, the programming languages and libraries used, and the hardware requirements.
+
+
+White Papers: These are documents that provide a detailed analysis of a product or service. For example, a White Paper for a piece of software could provide an in-depth analysis of the features and benefits of the software, as well as comparisons to other similar software products.
+
+
+Technical proposal and briefs: As a technical writer, you require a technical proposal or brief for every technical document you plan to write. These documents serve as a roadmap for creating other technical documents, by outlining the document's goal, scope, intended audience, and writing style.
+
+
+Technical reports: These are written to document research findings, test results, and other technical information. For example, a technical report on the results of a usability testing for a mobile app would include information on user feedback, areas of the app that confuse users, and their suggestions for improvement.
+
+
+
+Knowledge base articles: These are documents that provide step-by-step instructions on how to use a feature, product, or system. For example, a Knowledge Base Article for a piece of software could provide information about the software, such as how to install it, how to use it, and how to troubleshoot common problems.
